@@ -5,5 +5,3 @@ translate
 test.py
 command_example.sh
 command_example2.sh
-error_log/*
-log/*
