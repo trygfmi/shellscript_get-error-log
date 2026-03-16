@@ -50,7 +50,7 @@ cat error_log/command_error.log</code></pre>
 <pre class="wp-block-code has-background" style="background-color:#ffeeee"><code>hello shellscript
 
 ls: unrecognized option `--false'
-usage: ls &#91;-@ABCFGHILOPRSTUWabcdefghiklmnopqrstuvwxy1%,] &#91;--color=when] &#91;-D format] &#91;file ...]</code></pre>
+Try 'ls --help' for more information</code></pre>
 </details>
 </div>
 
@@ -112,7 +112,7 @@ cat error_log/command_error.log</code></pre>
 <pre class="wp-block-code has-background" style="background-color:#ffeeee"><code>hello shellscript
 
 ls: unrecognized option `--false'
-usage: ls &#91;-@ABCFGHILOPRSTUWabcdefghiklmnopqrstuvwxy1%,] &#91;--color=when] &#91;-D format] &#91;file ...]</code></pre>
+Try 'ls --help' for more information</code></pre>
 </details>
 </div>
 
@@ -137,8 +137,8 @@ cat error_log/command_error.log</code></pre>
 <details class="wp-block-details"><summary>出力結果</summary>
 <pre class="wp-block-code has-background" style="background-color:#ffeeee"><code>hello shellscript
 
-ls: unrecognized option `--false'
-usage: ls &#91;-@ABCFGHILOPRSTUWabcdefghiklmnopqrstuvwxy1%,] &#91;--color=when] &#91;-D format] &#91;file ...]</code></pre>
+ls: unknown option `--false'
+Try 'ls --help' for more information</code></pre>
 </details>
 </div>
 </div>
@@ -208,7 +208,7 @@ cat error_log/command_error.log</code></pre>
 <pre class="wp-block-code has-24292-eff-color has-text-color has-background has-1-125-rem-font-size" style="background-color:#ffeeee"><code>hello shellscript
 
 ls: unrecognized option `--false'
-usage: ls &#91;-@ABCFGHILOPRSTUWabcdefghiklmnopqrstuvwxy1%,] &#91;--color=when] &#91;-D format] &#91;file ...]</code></pre>
+Try 'ls --help' for more information</code></pre>
 </details>
 </div>
 </details>
@@ -392,7 +392,7 @@ cat error_log/command_error.log</code></pre>
 <pre class="wp-block-code has-24292-eff-color has-text-color has-background has-1-125-rem-font-size" style="background-color:#ffeeee"><code>hello shellscript
 
 ls: unrecognized option `--false'
-usage: ls &#91;-@ABCFGHILOPRSTUWabcdefghiklmnopqrstuvwxy1%,] &#91;--color=when] &#91;-D format] &#91;file ...]</code></pre>
+Try 'ls --help' for more information</code></pre>
 </details>
 </div>
 
@@ -417,8 +417,8 @@ cat error_log/command_error.log</code></pre>
 <details class="wp-block-details"><summary>詳細</summary>
 <pre class="wp-block-code has-24292-eff-color has-text-color has-background has-1-125-rem-font-size" style="background-color:#ffeeee"><code>hello shellscript
 
-ls: unrecognized option `--false'
-usage: ls &#91;-@ABCFGHILOPRSTUWabcdefghiklmnopqrstuvwxy1%,] &#91;--color=when] &#91;-D format] &#91;file ...]</code></pre>
+ls: unknown option `--false'
+Try 'ls --help' for more information</code></pre>
 </details>
 </div>
 </div>
